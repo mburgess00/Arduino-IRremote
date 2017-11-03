@@ -91,7 +91,7 @@ Regards,
   BlueChip
 */
 
-#include "IRremote.h"
+#include "IR_remote.h"
 #include "IRremoteInt.h"
 
 //==============================================================================

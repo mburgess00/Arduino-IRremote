@@ -15,8 +15,8 @@
 // Whynter A/C ARC-110WD added by Francesco Meschia
 //******************************************************************************
 
-#ifndef IRremote_h
-#define IRremote_h
+#ifndef IR_remote_h
+#define IR_remote_h
 
 //------------------------------------------------------------------------------
 // The ISR header contains several useful macros the user may wish to use
